@@ -6,7 +6,6 @@ public class J_S1A2 {
 int a=20;
 int b=10;
 
-
 System.out.print("Initial value of a is "+a+" & b is "+b);
 System.out.print("\n");
 
